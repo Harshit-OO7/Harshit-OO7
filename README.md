@@ -60,9 +60,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/Harshit-OO7/Harshit-OO7/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

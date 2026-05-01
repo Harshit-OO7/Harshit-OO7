@@ -1,29 +1,93 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Harshit+Kauntia;AI%2FML+Engineer;Building+Smart+Systems;Always+Learning...)
-👋 Hi, I'm Harshit Kauntia
+<h1 align="center">Hi 👋, I'm Harshit Kauntia</h1>
 
-I am currently a sophomore at SRM Institute of Science & Technology (Kattankulathur) Chennai & am pursuing my B-Tech in Computer Science With Specialization In AIML. In addition to that I am a hardcore techy who loves to program, do competitive coding & improve my skills in both problem solving & analytical thinking.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Building+Intelligent+Systems;Problem+Solver;Always+Learning+New+Things" />
+</p>
 
-🚀 AI/ML Enthusiast | Building Intelligent Systems
-💡 Passionate about solving real-world problems
+---
 
-## 🚀 Tech Stack
+## 🧠 About Me
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+* 🤖 Exploring **AI/ML & Deep Learning**
+* 💡 Passionate about solving real-world problems
+  
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+### 💻 Languages
+
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"/>
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
+
+### 🧠 AI / Data Science
+
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn"/>
+
+### 🤖 Tools
+
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter"/>
+
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Harshit-OO7&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+</p>
 
-![Streak](https://streak-stats.demolab.com/?user=Harshit-OO7&theme=tokyonight)
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-OO7&theme=tokyo-night"/>
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/dist/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Harshit-OO7/Harshit-OO7/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+---
+
+## 🚀 Featured Projects
+
+* 🚑 Smart Accident Detection System
+* 🤖 AI-Based Applications
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshit-kauntia-20496a222/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/Harshit-OO7"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshit-OO7&color=blue"/>
+</p>
+
+
+
 <!--
 
 

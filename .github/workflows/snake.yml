@@ -1,8 +1,6 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,19 +10,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v3
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
-      - uses: Platane/snk@v3
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Harshit-007
           outputs: |
-            github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output

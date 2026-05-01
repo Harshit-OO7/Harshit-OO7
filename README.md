@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Kauntia</h1>
+<h1 align="center">Hi 👋 I'm Harshit Kauntia</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Building+Intelligent+Systems;Problem+Solver;Always+Learning+New+Things" />
@@ -44,8 +44,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-OO7&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Harshit-OO7&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Harshit-OO7/Harshit-OO7/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

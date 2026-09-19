@@ -3,7 +3,9 @@
   Repository name: Harshit-OO7/Harshit-OO7
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:7C3AED,100:00D4FF&height=220&section=header&text=HARSHIT%20KAUNTIA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=THIRD-YEAR%20STUDENT%20%E2%80%A2%20ASPIRING%20SOFTWARE%20%26%20AI%2FML%20ENGINEER&descAlignY=58&descSize=15&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:7C3AED,100:00D4FF&height=220&section=header&text=HARSHIT%20KAUNTIA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=THIRD-YEAR%20STUDENT%20%E2%80%A2%20ASPIRING%20SOFTWARE%20%26%20AI%2FML%20ENGINEER&descAlignY=58&descSize=15&animation=fadeIn" alt="Harshit Kauntia" />
+
+<h1 align="center">Hi 👋 I'm Harshit Kauntia</h1>
 
 <p align="center">
   <a href="https://github.com/Harshit-OO7">
@@ -82,4 +84,4 @@ A growing collection of projects where I practise programming, explore intellige
   <a href="mailto:harshitkauntia10@gmail.com"><img src="https://img.shields.io/badge/Start_a_conversation-00A8E8?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:7C3AED,100:00D4FF&height=120&section=footer" />
+<p align="center"><sub>Designed with curiosity, built one commit at a time.</sub></p>

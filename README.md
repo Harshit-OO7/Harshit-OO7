@@ -3,11 +3,11 @@
   Repository name: Harshit-OO7/Harshit-OO7
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:7C3AED,100:00D4FF&height=220&section=header&text=HARSHIT%20KAUNTIA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:7C3AED,100:00D4FF&height=220&section=header&text=HARSHIT%20KAUNTIA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=THIRD-YEAR%20STUDENT%20%E2%80%A2%20ASPIRING%20SOFTWARE%20%26%20AI%2FML%20ENGINEER&descAlignY=58&descSize=15&animation=fadeIn" />
 
 <p align="center">
   <a href="https://github.com/Harshit-OO7">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Engineering+intelligence+into+real-world+systems.;Turning+data+into+decisions.;Always+learning.+Always+building." alt="Animated introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Third-year+student+on+a+builder's+journey.;Aspiring+Software+Engineer+%7C+AI%2FML+Engineer.;Learning+deeply.+Building+consistently." alt="Animated introduction" />
   </a>
 </p>
 
@@ -23,9 +23,9 @@
 ```text
 ┌──────────────────────────────────────────────────────────────────┐
 │  SYSTEM STATUS: ONLINE                                            │
-│  ROLE: AI / ML Engineer                                           │
-│  MISSION: Build useful, reliable, intelligent products.           │
-│  CURRENT SIGNAL: Learning deeply. Shipping thoughtfully.          │
+│  ROLE: Third-year student & aspiring Software / AI-ML engineer    │
+│  MISSION: Learn, build, and grow through real projects.           │
+│  CURRENT SIGNAL: Exploring code, data, and intelligent systems.   │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
@@ -33,15 +33,16 @@
 
 ```python
 class HarshitKauntia:
-    role = "AI/ML Engineer"
-    interests = ["Machine Learning", "Deep Learning", "Computer Vision"]
-    mindset = "Find the signal. Build the solution. Keep improving."
+    education = "Third-year student"
+    goal = "Software Engineer or AI/ML Engineer"
+    interests = ["Software Development", "Machine Learning", "Problem Solving"]
+    mindset = "Learn by building. Improve with every iteration."
 
     def currently_building(self):
-        return "AI-powered systems that solve real-world problems"
+        return "projects that turn classroom learning into real skills"
 ```
 
-I enjoy taking an idea from a messy problem statement to a practical, data-informed solution. My current focus is building stronger foundations in AI/ML while creating projects that are genuinely useful—not just impressive on paper.
+I am a third-year student building my foundation in software development and AI/ML. I enjoy turning ideas into working projects, learning from every bug, and growing toward a career in engineering.
 
 ## `toolkit.load()`
 
@@ -56,36 +57,22 @@ I enjoy taking an idea from a messy problem statement to a practical, data-infor
   <img src="https://img.shields.io/badge/scikit--learn-0B1020?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
 </p>
 
-## `projects/featured`
+## `projects.in_progress()`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚑 Smart Accident Detection System</h3>
-      <p>Using AI to detect critical road incidents faster—where every second of awareness matters.</p>
-      <sub><code>Computer Vision</code> · <code>Machine Learning</code> · <code>Impact</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI-Based Applications</h3>
-      <p>Experiments and applications that turn intelligent models into practical user-facing tools.</p>
-      <sub><code>Python</code> · <code>Deep Learning</code> · <code>Problem Solving</code></sub>
-    </td>
-  </tr>
-</table>
+### 🚑 [Smart Accident Detection System →](https://github.com/Harshit-OO7?tab=repositories)
+
+An exploration of technology that can help identify road accidents faster and improve emergency awareness.
+
+`Problem Solving` · `AI/ML Exploration` · `Real-world Impact`
+
+### 🤖 [AI & Software Projects →](https://github.com/Harshit-OO7?tab=repositories)
+
+A growing collection of projects where I practise programming, explore intelligent systems, and build useful applications.
+
+`Python` · `Java` · `Learning by Building`
 
 <p align="center">
-  <i>More projects are always in the pipeline. Curiosity is a feature, not a phase.</i>
-</p>
-
-## `telemetry.github()`
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshit-OO7&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00D4FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=00D4FF" alt="Harshit's GitHub statistics" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Harshit-OO7&hide_border=true&background=0B1020&ring=00D4FF&fire=FFB86C&currStreakLabel=00D4FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Harshit's contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-OO7&bg_color=0B1020&color=C9D1D9&line=00D4FF&point=7C3AED&area=true&hide_border=true" alt="Contribution activity graph" />
+  <a href="https://github.com/Harshit-OO7?tab=repositories"><img src="https://img.shields.io/badge/Explore_all_projects-00D4FF?style=for-the-badge&logo=github&logoColor=0B1020" alt="Explore Harshit's projects" /></a>
 </p>
 
 ## `connection.request()`
@@ -93,10 +80,6 @@ I enjoy taking an idea from a messy problem statement to a practical, data-infor
 <p align="center">
   <a href="https://www.linkedin.com/in/harshit-kauntia-20496a222/"><img src="https://img.shields.io/badge/Let's_connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:harshitkauntia10@gmail.com"><img src="https://img.shields.io/badge/Start_a_conversation-00A8E8?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harshit-OO7/Harshit-OO7/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:7C3AED,100:00D4FF&height=120&section=footer" />

@@ -3,7 +3,7 @@
   Repository name: Harshit-OO7/Harshit-OO7
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:7C3AED,100:00D4FF&height=220&section=header&text=HARSHIT%20KAUNTIA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=THIRD-YEAR%20STUDENT%20%E2%80%A2%20ASPIRING%20SOFTWARE%20%26%20AI%2FML%20ENGINEER&descAlignY=58&descSize=15&animation=fadeIn" alt="Harshit Kauntia" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:7C3AED,100:00D4FF&height=220&section=header&text=HARSHIT%20KAUNTIA&fontSize=52&fontColor=FFFFFF&fontAlignY=47&animation=fadeIn" alt="Harshit Kauntia" />
 
 <h1 align="center">Hi 👋 I'm Harshit Kauntia</h1>
 
